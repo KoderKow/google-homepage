@@ -56,8 +56,14 @@ a:hover {
     font-weight: bold;
 }
 
-a.si:visited, a.si:hover{
+a.si:visited, a.si:hover {
     color: #fff;
+    text-decoration: none;
+}
+
+a.im_an_icon:visited, a.im_an_icon:hover {
+    opacity: 0.75;
+    color: #000;
     text-decoration: none;
 }
 
