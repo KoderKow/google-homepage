@@ -78,7 +78,7 @@ a.im_an_icon:visited, a.im_an_icon:hover {
 
 .logo {
     position: absolute; 
-    top: 50%; 
+    top: 25%; 
     left: 50%; 
     transform: translate(-50%, -50%); 
     text-align: center; 
@@ -87,7 +87,7 @@ a.im_an_icon:visited, a.im_an_icon:hover {
 
 .searchbar {
     position: absolute; 
-    top: 75%;
+    top: 50%;
     left: 50%;
     width: 400px;
     transform: translate(-50%, -50%);
